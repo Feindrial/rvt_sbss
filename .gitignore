@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# EXT LIBS
+aho_corasick
+glad
+GLFW
+imgui
+ImGuiFileDialog
+KHR
+OpenXLSX
+sqlite
